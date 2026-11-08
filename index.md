@@ -7,5 +7,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 3. [You've Reached Sam - Dustin Thao](ebook/You've Reached Sam - Dustin Thao.pdf) - Dustin Thao (2021)
 4. [White Nights by Fyodor D.](ebook/White Nights by Fyodor D..pdf) - Fyodor Dostoyevsky (1848)
 5. [The Old Man and The Sea ; Ernest Hemingway](ebook/The Old Man and The Sea ; Ernest Hemingway.pdf) - Ernest Hemingway (1952)
+6. [The Little Prince by Antoine de Saint Exupery](ebook/The Little Prince by Antoine de Saint Exupery.pdf) - Antoine de Saint Exupery (1940)
 ---
 *Powered by GitHub Pages*
