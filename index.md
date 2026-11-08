@@ -12,5 +12,5 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [Ronggeng Dukuh Paruk](ebook/Ronggeng Dukuh Paruk.pdf) - Ahmad Tohari (1982)
 9. [Rahasia Salinem - Wisnu Suryaning Adji, dkk](ebook/Rahasia Salinem - Wisnu Suryaning Adji, dkk.pdf) - Wisnu Suryaning Adji, Brilliant Yotenega (2019)
 10. [Keajaiban Toko Kelontong Namiya - Keigo Higashino](ebook/Keajaiban Toko Kelontong Namiya - Keigo Higashino.pdf) - Keigo Higashino (2012)
----
+11. [A thousand splendid sun - Khaled Hosseini](ebook/A thousand splendid sun - Khaled Hosseini.pdf) - Khaled Hosseini (2010)
 *Powered by GitHub Pages*
