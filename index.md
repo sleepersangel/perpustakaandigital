@@ -12,5 +12,5 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [Rahasia Salinem - Wisnu Suryaning Adji, dkk](ebook/Rahasia Salinem - Wisnu Suryaning Adji, dkk.pdf) - Wisnu Suryaning Adji, Brilliant Yotenega (2019)
 9. [Keajaiban Toko Kelontong Namiya - Keigo Higashino](ebook/Keajaiban Toko Kelontong Namiya - Keigo Higashino.pdf) - Keigo Higashino (2012)
 10. [A thousand splendid sun - Khaled Hosseini](ebook/A thousand splendid sun - Khaled Hosseini.pdf) - Khaled Hosseini (2010)
-11. [RINGKASAN UGC “TRANSFORMING LIBRARIES THROUGH INFORMATION TECHNOLOGY” 3 NOVEMBER 2026](ebook/RINGKASAN UGC “TRANSFORMING LIBRARIES THROUGH INFORMATION TECHNOLOGY” 3 NOVEMBER 2026.pdf) - Dika Naily Azkiyah (2026)
+11. [RINGKASAN UGC “TRANSFORMING LIBRARIES THROUGH INFORMATION TECHNOLOGY” 3 NOVEMBER 2026](ebook/RINGKASAN UGC “TRANSFORMING LIBRARIES THROUGH INFORMATION TECHNOLOGY” 3 NOVEMBER 2026.pdf) - Dika Naily Azkiyah (13040124130073)
 *Powered by GitHub Pages*
