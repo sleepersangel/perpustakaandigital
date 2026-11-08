@@ -11,5 +11,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 7. [The Kite Runner - Khaled Hosseini](ebook/The Kite Runner - Khaled Hosseini.pdf) - Khaled Hosseini (2003)
 8. [Ronggeng Dukuh Paruk](ebook/Ronggeng Dukuh Paruk.pdf) - Ahmad Tohari (1982)
 9. [Rahasia Salinem - Wisnu Suryaning Adji, dkk](ebook/Rahasia Salinem - Wisnu Suryaning Adji, dkk.pdf) - Wisnu Suryaning Adji, Brilliant Yotenega (2019)
+10. [Keajaiban Toko Kelontong Namiya - Keigo Higashino](ebook/Keajaiban Toko Kelontong Namiya - Keigo Higashino.pdf) - Keigo Higashino (2012)
 ---
 *Powered by GitHub Pages*
