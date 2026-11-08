@@ -9,5 +9,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 5. [The Old Man and The Sea ; Ernest Hemingway](ebook/The Old Man and The Sea ; Ernest Hemingway.pdf) - Ernest Hemingway (1952)
 6. [The Little Prince by Antoine de Saint Exupery](ebook/The Little Prince by Antoine de Saint Exupery.pdf) - Antoine de Saint Exupery (1940)
 7. [The Kite Runner - Khaled Hosseini](ebook/The Kite Runner - Khaled Hosseini.pdf) - Khaled Hosseini (2003)
+8. [Ronggeng Dukuh Paruk](ebook/Ronggeng Dukuh Paruk.pdf) - Ahmad Tohari (1982)
 ---
 *Powered by GitHub Pages*
