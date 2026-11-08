@@ -14,4 +14,5 @@ Berikut ini adalah Koleksi yang dimiliki:
 10. [Keajaiban Toko Kelontong Namiya - Keigo Higashino](ebook/Keajaiban Toko Kelontong Namiya - Keigo Higashino.pdf) - Keigo Higashino (2012)
 11. [A thousand splendid sun - Khaled Hosseini](ebook/A thousand splendid sun - Khaled Hosseini.pdf) - Khaled Hosseini (2010)
 12. [Perempuan Di Titik Nol ; Nawal El Saadawi](ebook/Perempuan Di Titik Nol ; Nawal El Saadawi.pdf) - Nawal El Saadawi (1975)
+    
 *Powered by GitHub Pages*
