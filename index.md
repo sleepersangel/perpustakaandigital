@@ -8,5 +8,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 4. [White Nights by Fyodor D.](ebook/White Nights by Fyodor D..pdf) - Fyodor Dostoyevsky (1848)
 5. [The Old Man and The Sea ; Ernest Hemingway](ebook/The Old Man and The Sea ; Ernest Hemingway.pdf) - Ernest Hemingway (1952)
 6. [The Little Prince by Antoine de Saint Exupery](ebook/The Little Prince by Antoine de Saint Exupery.pdf) - Antoine de Saint Exupery (1940)
+7. [The Kite Runner - Khaled Hosseini](ebook/The Kite Runner - Khaled Hosseini.pdf) - Khaled Hosseini (2003)
 ---
 *Powered by GitHub Pages*
